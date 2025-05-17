@@ -6,7 +6,7 @@ HISTAI is a comprehensive, open-source Whole Slide Image (WSI) dataset designed 
 
 ## 🔗 Access the Dataset
 
-* **Metadata Repository:** [HISTAI-metadata](https://huggingface.co/datasets/histai/HISTAI-metadata)
+* **Metadata Repository:** [HISTAI-metadata](https://huggingface.co/datasets/histai/HISTAI-metadata) [START HERE]
 * **Individual Specialized Subsets:**
 
   * [HISTAI-hematologic](https://huggingface.co/datasets/histai/HISTAI-hematologic)
