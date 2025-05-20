@@ -24,10 +24,24 @@ HISTAI is a comprehensive, open-source Whole Slide Image (WSI) dataset designed 
 
 A detailed research paper describing the HISTAI dataset is available:
 
-**HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology**
+**HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology**  
+Dmitry Nechaev, Alexey Pchelnikov, Ekaterina Ivanova  
+[📖 Read on arXiv](https://arxiv.org/abs/2505.12120)
 
-\[📌 Paper Coming Soon]
+### 📚 Citation
+If you use HISTAI in your research, please cite:
 
+```bibtex
+@misc{nechaev2025histaiopensourcelargescaleslide,
+  title     = {HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology},
+  author    = {Dmitry Nechaev and Alexey Pchelnikov and Ekaterina Ivanova},
+  year      = {2025},
+  eprint    = {2505.12120},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.IV},
+  url       = {https://arxiv.org/abs/2505.12120}
+}
+```
 ---
 
 ## 📂 Dataset Structure
